@@ -1,0 +1,7 @@
+{
+  "name": "Hotel Pantry Ops - Staff Portal",
+  "description": "Professional inventory management for hotel kitchens featuring AI visual recognition for commercial packaging, critical stock alerts, and daily special planning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
